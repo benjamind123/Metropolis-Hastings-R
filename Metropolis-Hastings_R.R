@@ -74,6 +74,8 @@ Metropolis_Hastings <- function(f, samples, burn_in, plot_type){
   }
 }
 
+###############################################################################
+####################### Example ###############################################
 # Gaussian distribution with mean 4 and unit variance as the function we
 # want to sample from (also the equilibrium distribution) 
 
